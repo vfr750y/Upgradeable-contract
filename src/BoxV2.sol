@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.18;
 
+// upgraded version of the contract
+
 contract BoxV2 {
     uint256 internal number;
 
